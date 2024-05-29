@@ -1,4 +1,4 @@
-# New README
+# BioQ Summer School
 
 **Name:** Cory Henn
 

@@ -4,4 +4,4 @@ def hello_world():
 
 
 def hello_world_n(N):
-    return "Hello World! " * N.rstrip()
+    return " ".join(["Hello World!"] * N)
